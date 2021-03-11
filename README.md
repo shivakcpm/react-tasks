@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Task1 - 'localhost:3000/' to show the form
+
+This page has registration web page, once enter valid data and click on register it will navigate to the helloworld page 'localhost:3000/home'
+
+### Task2 - 'localhost:3000/task2' to show the counter task
+
+this page has implementation for the counter task , you can reach here by giving 'localhost:3000/task2' in browser or by clicking on the link given in 'localhost:3000/home' page.
